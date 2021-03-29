@@ -1,0 +1,11 @@
+MotorSpeedSet = 0x82
+PWMFrequenceSet = 0x84
+DirectionSet = 0xaa
+MotorSetA = 0xa1
+MotorSetB = 0xa5
+Nothing = 0x00
+Stepernu = 0x1c
+I2CMotorDriverAdd = 0x0f
+forward = 0x0a
+reverse = 0x05
+01
