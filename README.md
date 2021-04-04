@@ -7,6 +7,11 @@ Raspberry pi pairs to ps4 controller and input is taken from controller and conv
 
 Original RC car was the called: SEEED rover
   - replaced intel edison with my own raspi and arduino
+k
+# Future:
+  - Teather raspi to hotspot
+    - Add live video
+    - Send data over internet for long range use
  
 # Note:
   - i2c on grove motor driver has conflicts with the raspi. It only works the first time you turn it on and then just stops working.
