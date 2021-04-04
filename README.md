@@ -1,7 +1,6 @@
 # DS4-RC-Car
-Uses PyPS4Controller library
-  - controller.py contains library hotfix for program
-
+required PyPS4Controller library
+  - pip install pyPS4Controller
 
 # How it Works
 Raspberry pi pairs to ps4 controller and input is taken from controller and converted to serial data that is sent over serial port (wheel direction and speed) to an Arduino that controls the i2c bus on the motor drivers of the rc car.
